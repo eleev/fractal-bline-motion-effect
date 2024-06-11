@@ -12,6 +12,7 @@
 		A952F93A2C1861D0008E340C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A952F9392C1861D0008E340C /* Assets.xcassets */; };
 		A952F93D2C1861D0008E340C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A952F93C2C1861D0008E340C /* Preview Assets.xcassets */; };
 		A952F9462C186269008E340C /* FractalBLineMotion.metal in Sources */ = {isa = PBXBuildFile; fileRef = A952F9452C186269008E340C /* FractalBLineMotion.metal */; };
+		A952F9492C186FC9008E340C /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = A952F9472C186FC9008E340C /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A952F9392C1861D0008E340C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A952F93C2C1861D0008E340C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A952F9452C186269008E340C /* FractalBLineMotion.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = FractalBLineMotion.metal; sourceTree = "<group>"; };
+		A952F9472C186FC9008E340C /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,7 @@
 		A952F9292C1861CF008E340C = {
 			isa = PBXGroup;
 			children = (
+				A952F9482C186FC9008E340C /* Assets */,
 				A952F9342C1861CF008E340C /* FractalBLineMotion */,
 				A952F9332C1861CF008E340C /* Products */,
 			);
@@ -68,6 +71,14 @@
 				A952F93C2C1861D0008E340C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A952F9482C186FC9008E340C /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				A952F9472C186FC9008E340C /* demo.gif */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A952F93D2C1861D0008E340C /* Preview Assets.xcassets in Resources */,
+				A952F9492C186FC9008E340C /* demo.gif in Resources */,
 				A952F93A2C1861D0008E340C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
