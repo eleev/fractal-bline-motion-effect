@@ -11,6 +11,7 @@
 		A952F9382C1861CF008E340C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A952F9372C1861CF008E340C /* ContentView.swift */; };
 		A952F93A2C1861D0008E340C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A952F9392C1861D0008E340C /* Assets.xcassets */; };
 		A952F93D2C1861D0008E340C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A952F93C2C1861D0008E340C /* Preview Assets.xcassets */; };
+		A952F9462C186269008E340C /* FractalBLineMotion.metal in Sources */ = {isa = PBXBuildFile; fileRef = A952F9452C186269008E340C /* FractalBLineMotion.metal */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A952F9372C1861CF008E340C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A952F9392C1861D0008E340C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A952F93C2C1861D0008E340C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A952F9452C186269008E340C /* FractalBLineMotion.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = FractalBLineMotion.metal; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A952F9352C1861CF008E340C /* FractalBLineMotionApp.swift */,
 				A952F9372C1861CF008E340C /* ContentView.swift */,
+				A952F9452C186269008E340C /* FractalBLineMotion.metal */,
 				A952F9392C1861D0008E340C /* Assets.xcassets */,
 				A952F93B2C1861D0008E340C /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A952F9382C1861CF008E340C /* ContentView.swift in Sources */,
+				A952F9462C186269008E340C /* FractalBLineMotion.metal in Sources */,
 				A952F9362C1861CF008E340C /* FractalBLineMotionApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
