@@ -3,10 +3,10 @@
 [![Platform](https://img.shields.io/badge/platform-iOS_17-yellow.svg)]()
 [![Platform](https://img.shields.io/badge/platform-iPadOS_17-darkyellow.svg)]()
 [![Language](https://img.shields.io/badge/language-Swift_5.10-orange.svg)]()
-[![Last Commit](https://img.shields.io/github/last-commit/eleev/fractal-bline-motion)]()
-[![NLOC](https://img.shields.io/tokei/lines/github/eleev/fractal-bline-motion)]()
-[![Contributors](https://img.shields.io/github/contributors/eleev/fractal-bline-motion)]()
-[![Repo Size](https://img.shields.io/github/repo-size/eleev/fractal-bline-motion)]()
+[![Last Commit](https://img.shields.io/github/last-commit/eleev/fractal-bline-motion-effect)]()
+[![NLOC](https://img.shields.io/tokei/lines/github/eleev/fractal-bline-motion-effect)]()
+[![Contributors](https://img.shields.io/github/contributors/eleev/fractal-bline-motion-effect)]()
+[![Repo Size](https://img.shields.io/github/repo-size/eleev/fractal-bline-motion-effect)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
 <!-- ![](cover.png) -->
